@@ -14,7 +14,7 @@
 - AutoMapper Extensions 12.0.0
 - Entity Framework Core Tools 6.0.10
 
-#Backend
+# Backend
 
 - Entities
 - Dtos
@@ -25,5 +25,5 @@
 - Postman
 - Postman Collections
 
-#FrontEnd
+# FrontEnd
 - Angular 14.2.6
